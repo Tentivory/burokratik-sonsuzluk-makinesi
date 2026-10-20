@@ -1,0 +1,6 @@
+Ekstra bürokratik talepler listesi:
+- 7 nesil önceki ataların vergi borçsuzluk belgesi
+- Paralel evrenden gelen onay kağıdı
+- Bürokrasinin kendisinin bürokratik onayı
+
+Bu branch daha da sonsuz olsun diye açıldı.
